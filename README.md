@@ -1,5 +1,5 @@
 <h1>
- <img src="./Components/images/Front-page.png", width="900px", height="400px">
+ <img src="https://github.com/Michael2santos/Landing-Page/blob/main/Components/Images/Front-page.png", width="900px", height="400px">
     Landing Page 
 </h1>
 
